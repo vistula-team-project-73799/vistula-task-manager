@@ -24,5 +24,5 @@ Simple Task Manager made for the Team Project – IT course (Practical Assignmen
 
 ## Team Collaboration
 
-- Pull Request I made to my partner's repository: TODO
-- Pull Request from my partner merged into this repository: TODO
+- Pull Request I made to my partner's repository: https://github.com/vistula-team-project-72011/vistula-task-manager/pull/1
+- Pull Request from my partner merged into this repository: https://github.com/vistula-team-project-73799/vistula-task-manager/pull/2
